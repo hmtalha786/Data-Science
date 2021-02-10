@@ -1,8 +1,12 @@
-<img alt="Numpy" src="./Cheat Sheets/Python Basics.jpg" />
+# Python Basics
+
+<img alt="Python Basics" src="./Cheat Sheets/Python Basics.jpg" />
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/Jupyter Notebook.jpg" />
+# Jupyter Notebook
+
+<img alt="Jupyter Notebook" src="./Cheat Sheets/Jupyter Notebook.jpg" />
 
 </br>
 
@@ -22,7 +26,7 @@
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/Sraborn.jpg" />
+<img alt="Numpy" src="./Cheat Sheets/Seaborn.jpg" />
 
 </br>
 
