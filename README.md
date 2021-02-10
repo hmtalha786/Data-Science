@@ -10,28 +10,42 @@
 
 </br>
 
+# Numpy
+
 <img alt="Numpy" src="./Cheat Sheets/Numpy.jpg" />
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/Pandas.jpg" />
+# Pandas
+
+<img alt="Pandas" src="./Cheat Sheets/Pandas.jpg" />
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/Matplotlib.jpg" />
+# Matplotlib
+
+<img alt="Matplotlib" src="./Cheat Sheets/Matplotlib.jpg" />
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/SciPy.jpg" />
+# SciPy
+
+<img alt="SciPy" src="./Cheat Sheets/SciPy.jpg" />
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/Seaborn.jpg" />
+# Seaborn
+
+<img alt="Seaborn" src="./Cheat Sheets/Seaborn.jpg" />
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/Bokeh.jpg" />
+# Bokeh
+
+<img alt="Bokeh" src="./Cheat Sheets/Bokeh.jpg" />
 
 </br>
 
-<img alt="Numpy" src="./Cheat Sheets/Scikit Learn.jpg" />
+# Scikit Learn
+
+<img alt="Scikit Learn" src="./Cheat Sheets/Scikit Learn.jpg" />
