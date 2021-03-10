@@ -4,4 +4,5 @@ NumPy is an amazing scientific computing library that is used by numerous other 
 
 I recommend that you use the Jupyter setup and use with Anaconda so that you'll have access to all of NumPys dependencies.
 
+## Numpy User Guide / Cheatsheet
 <img align="Center" alt="Numpy" src="./Numpy.jpg" />
