@@ -8,4 +8,5 @@ You can install it with the command : conda install matplotlib or pip install ma
 
 <a href="https://matplotlib.org/gallery/index.html">Matplotlib Chart Gallery</a> is a great page to go to when you are looking for information on making a specific chart type.
 
+## Matplotlib User Guide / Cheatsheet
 <img align="Center" alt="Matplotlib" src="./Matplotlib.jpg" />
